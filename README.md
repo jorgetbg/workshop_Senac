@@ -13,3 +13,27 @@
   <li>Manipulação de eventos</li>
   <li>Dinamismo e interatividade com Javascript</li>
 </ul>
+
+<h2>Video</h2>
+
+<ul>
+  <li><p>Capturando os Elementos da Dom, e adicionando tarefa</p>
+  https://youtu.be/waPoNNJXq0o
+  </li>
+  <li><p>Concluir, Editar e Excluir Tarefa</p>
+ https://youtu.be/Vh6FgZJSwT4
+  </li>
+  <li><p>Editar Tarefa</p>
+    https://youtu.be/EM1TYKkzsto
+  </li>
+ <li><p>Buscar e Filtrar</p>
+  https://youtu.be/DM1_WqfQpUw
+  </li>
+ <li><p>Local Storage</p>
+  https://youtu.be/SwNsPe59I7c
+  </li>
+
+
+
+
+</ul>
